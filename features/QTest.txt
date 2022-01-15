@@ -1,0 +1,36 @@
+1. Tipos de Proyectos
+2. Flujos de gestión de defectos
+3. 
+-----------------------
+6 Equipos Crew Clientes... 6 Torres: 6 Líderes QA: Analistas cu 6 ...
+
+Solo para casos de prueba....
+
+Necesidad de provecho a la herramienta....
+-Nos gustaría sacar el provecho y saber todo lo que puede brindar QTest / Integración con Jira...
+- Si tienen la integración de Jira con Qtest...
+-------------------------------------------------------
+Capacitación desde 0 ....
+
+Funcional overwiev:.......................................................OK
+-Crar casos de pruebas con parámetros.....................................OK
+-Ejecución con evidencias.................................................OK
+-Sesiones de testing exploratorio.........................................OK
+-Visualizar a travez de Jira----------------------------------------------PENDIENTE!
+--------------------------------------
+Automatozación
+**Integración con Jira...???--------SI
+
+*Automatización (OS Framework Serenity) Orq. Jenkins.....................OK
+-2 opciones de automatización qTest........Pendiente...!
+-
+
+*Indicadores *Importante....
+
+*Pruebas Unitarias
+*Gherkin BDD....
+QTEST BDD
+QEscenario
+Test Proyect
+
+2 sesiones de 1 hora y media....
